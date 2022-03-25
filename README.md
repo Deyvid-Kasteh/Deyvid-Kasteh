@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Deyvid-Kasteh
-- 👀 I’m interested in learn, share and collaborate.
-- 🌱 I’m currently learning Vue.
-- 💞️ I’m looking to collaborate on all king of Vue projects.
-- 📫 How to reach me: soon I'll post here how you can reach me.
+Oi pessoal, eu sou o Deyvid Kasteh, desenvolvedor Full Stack.
 
 <!---
 Deyvid-Kasteh/Deyvid-Kasteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
